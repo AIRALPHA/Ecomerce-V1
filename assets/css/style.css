@@ -1,0 +1,81 @@
+.main-image{
+    height: 580px;
+    background: url("../img/bg-1.jpg") center;
+    border-bottom: 5px solid #0b4961;
+}
+
+.main-image p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.main-image h2 {
+    font-weight: normal;
+    font-family: "Comic Sans MS";
+    text-transform: uppercase;
+    text-align: center;
+    padding: 150px 0 40px 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.name{
+    font-family: "Comic Sans MS";
+    padding: 150px 0 40px 0;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.main-image p a{
+    font-size: 20px;
+}
+
+.container p{
+    padding-bottom: 20px;
+}
+
+.red-divided{
+    width: 100px;
+    height: 2px;
+    background: #c82333;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+#recommandation{
+    background-color: #fff;
+}
+
+#recommandation .heading h2{
+    color: #D82C2E;
+    text-align: center;
+}
+
+.carousel-control-prev .carousel-control-prev-icon{
+    color: red;
+}
+
+.carousel-control-next .carousel-control-next-icon{
+    color: red;
+}
+#recommandation-carousel .carousel-item{
+    padding: 40px 30px;
+}
+
+#recommandation-carousel .carousel-item h3{
+    color: #D82C2E;
+    font-style: italic;
+}
+#recommandation-carousel .carousel-indicators li{
+    border: 1px solid #c82333;
+    background: #FFF;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+
+#recommandation-carousel .carousel-indicators li.active{
+    background: #c82333;
+}
+

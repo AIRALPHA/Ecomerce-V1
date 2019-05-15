@@ -1,0 +1,26 @@
+.store ul>li>a{
+    font-size: 18px;
+    text-shadow: 2px 2px #000;
+    font-weight: bold;
+}
+
+.thumnail img{
+    width: 100%;
+    height: 346px;
+}
+
+.thumnail{
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.price{
+    background: #5CB85C;
+    color: #FFF;
+    position: absolute;
+    right: 6px;
+    top: 20px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 3px;
+}
